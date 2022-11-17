@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C2C6-120D
+
+ Directory of C:\Users\jwali\OneDrive\Documents\new-project
+
+17-11-2022  15:10    <DIR>          .
+17-11-2022  15:10    <DIR>          ..
+17-11-2022  15:10                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  30,199,263,232 bytes free
